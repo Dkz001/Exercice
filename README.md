@@ -7,5 +7,5 @@ ensuite appuyer sur la touche ``F5``, et allez sur l'onglet ``console`` pour voi
 
 
 
-## Langage : Javascript
+## Langage : HTML5 & Javascript
 
